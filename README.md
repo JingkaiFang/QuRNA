@@ -1,12 +1,13 @@
 # Quantum algorithm for identifying RNA 3D motifs
 
-This project is a modified version of the original [Qiskit Community Subgraph Isomorphism](https://github.com/qiskit-community/subgraph-isomorphism) algorithm, which provides quantum approaches for subgraph isomorphism detection.
+This project is a modified version of the original [Qiskit Community Subgraph Isomorphism](https://github.com/qiskit-community/subgraph-isomorphism) algorithm, which provides quantum approaches for identification of RNA 3D motifs.
 
 ## 🔧 Modifications
 
 This version includes the following changes:
 
 - Modified the quantum circuit structure.
+- Encoded the types of RNA bases and the types of base interactions.
 - Added ancillary qubits to encode edge or node weights.
 
 These enhancements aim to enable weighted subgraph isomorphism encoding and extend the original algorithm’s applicability.
