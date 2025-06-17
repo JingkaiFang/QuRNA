@@ -1,0 +1,11 @@
+This project is based on the Qiskit Community project "subgraph-isomorphism"
+developed by IBM and its contributors:
+https://github.com/qiskit-community/subgraph-isomorphism
+
+Copyright (C) IBM 2021.
+
+Modifications have been made by [Your Name or Organization] in 2025, including:
+- Modified the quantum circuit to add ancillary qubits for encoding weights.
+
+This project is licensed under the Apache License, Version 2.0.
+See the LICENSE.txt file for full license terms.
