@@ -32,5 +32,5 @@ See the [LICENSE.txt](./LICENSE.txt) file for details.
 
 ## 📚 References
 
-Fang, Jing-Kai, et al. "Quantum algorithm for identifying RNA 3D motifs by processing RNA secondary structure graphs." *bioRxiv* (2025): 2025-04.  
+Jing-Kai Fang, et al. "Quantum algorithm for identifying RNA 3D motifs by processing RNA secondary structure graphs." *bioRxiv* (2025): 2025-04.  
 [https://doi.org/10.1101/2025.04.25.650554](https://doi.org/10.1101/2025.04.25.650554)
