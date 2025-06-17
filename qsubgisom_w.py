@@ -1,7 +1,7 @@
 # This code is part of Qiskit.
 #
 # (C) Copyright IBM 2021.
-# (C) Modified by Jing-kai Fang 2025.
+# (C) Modified by Jing-Kai Fang 2025.
 #
 # Modifications:
 # - Modified the quantum circuit to add ancillary qubits for encoding weights.
