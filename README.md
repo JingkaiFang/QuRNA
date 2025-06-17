@@ -28,7 +28,7 @@ See the [LICENSE.txt](./LICENSE.txt) file for details.
 ## 👤 Authors
 
 - Original: IBM and Qiskit Community contributors  
-- Modified by: Jing-kai Fang, 2025
+- Modified by: Jing-Kai Fang, 2025
 
 ## 📚 References
 
